@@ -1,4 +1,4 @@
-baseURL: "chi11mo.github.io"
+baseURL: "https://chi11mo.github.io"
 title: ExampleSite
 paginate: 5
 theme: PaperMod
