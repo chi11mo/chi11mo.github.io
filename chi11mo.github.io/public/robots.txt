@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: chi11mo.github.io/sitemap.xml
