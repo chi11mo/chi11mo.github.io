@@ -26,7 +26,7 @@ echo ""
 echo "Committing changes to $(pwd)"
 git add .
 git commit -m "$msg"
-git push master
+git push origin master
 
 # Add this repos changes to git and commit/push. First 'cd' out of public
 cd ..
@@ -35,4 +35,4 @@ echo ""
 echo "Committing changes to $(pwd)"
 git add .
 git commit -m "$msg"
-git push master
+git push origin master
